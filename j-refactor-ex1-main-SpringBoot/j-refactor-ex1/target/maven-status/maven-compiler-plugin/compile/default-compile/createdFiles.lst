@@ -1,0 +1,6 @@
+com\h2rd\refactoring\service\UserService.class
+com\h2rd\refactoring\controller\UserResource.class
+com\h2rd\refactoring\usermanagement\User.class
+com\h2rd\jrefactorex1\JRefactorEx1Application.class
+com\h2rd\jrefactorex1\ServletInitializer.class
+com\h2rd\refactoring\dao\UserDao.class
